@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Falcon
 - 👀 I’m interested system administration and programming
 - 🌱 I’m currently learning golang
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on all ;)
 - 📫 How to reach me: wfalcon@mail.ru
 
 <!---
